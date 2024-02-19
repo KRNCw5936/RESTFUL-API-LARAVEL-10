@@ -9,6 +9,8 @@
 <body>
     <form action="">
         <input type="checkbox" name="" id="">
+        <input type="checkbox" name="" id="">
+        <input type="checkbox" name="" id="">
     </form>
 </body>
 </html>
